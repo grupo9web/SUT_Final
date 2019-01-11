@@ -18,6 +18,7 @@ Este es el documento de diseño de SUT, un videojuego web desarrollado en *Unity
 Puedes jugar a SUT haciendo click en este enlace https://grupo9web.github.io/SUT_Final/
 Puedes acceder a nuestra web mediante este enlace https://grupo9web.github.io/WebHulioEntertainment/
 Consulta nuestro repositorio en GitHub: https://github.com/grupo9web/SUT_Final/
+Prueba nuestro juego en Facebook: https://www.facebook.com/instantgames/288884565164065/
 
 
 ### 1.1 Concepto del juego
